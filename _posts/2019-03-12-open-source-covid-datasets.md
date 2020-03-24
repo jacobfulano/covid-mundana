@@ -3,7 +3,7 @@ layout: post
 title:  "Open Source Covid-19 Datasets"
 author: Jacob
 categories: [ tutorial ]
-image: assets/images/covid.jpg
+image: assets/images/covid_square.jpg
 tags: [sticky]
 ---
 Here is a list of open source covid-19 datasets:
