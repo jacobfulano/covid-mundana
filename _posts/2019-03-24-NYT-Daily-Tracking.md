@@ -3,7 +3,7 @@ layout: post
 title:  "NYT: Daily Tracker of Coronavirus Deaths"
 author: jacob
 categories: [ resources ]
-image: assets/images/nyt.png
+image: assets/images/nyt_t.png
 tags: [featured]
 ---
 
