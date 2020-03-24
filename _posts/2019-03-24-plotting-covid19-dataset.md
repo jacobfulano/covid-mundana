@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plotting a covid-19 Dataset"
+title:  "Plotting a COVID19 Dataset in Python"
 author: Jacob
 categories: [ tutorial ]
 image: assets/images/17.jpg
@@ -53,4 +53,4 @@ plt.ylabel('cumulative cases')
 plt.title('Italy Cumulative Cases')
 plt.tight_layout()
 ```
-INSERT IMAGE HERE
+![Italy Plot](assets/images/italy_example.jpg "Italy")
