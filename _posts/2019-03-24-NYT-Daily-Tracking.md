@@ -4,7 +4,7 @@ title:  "NYT: Daily Tracker of Coronavirus Deaths"
 author: jacob
 categories: [ resources ]
 image: assets/images/nyt.png
-tags: [NYT]
+tags: [featured]
 ---
 
 The New York Times has a daily tracker of Coronavirus Deaths by U.S. State and Country:
