@@ -11,8 +11,7 @@ There are many open-source datasets for covid-19 data; some are more curated tha
 
 ## How to access the datasets
 
-We can download the csv file of cumulative cases, as curated by the Center for Systems Science and Engineering (JHU CCSE) at Johns Hopkins (JHU):
-[https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
+We can download the csv file of cumulative cases, as curated by the Center for Systems Science and Engineering (CCSE) at Johns Hopkins (JHU): [https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
 The data has been collected since January 22 2020. On their website, they state that the data is curated from various sources including the World Health Organization (WHO), DXY.cn. Pneumonia. 2020, BNO News, National Health Commission of the People’s Republic of China (NHC), China CDC (CCDC), and others.
 
@@ -53,4 +52,4 @@ plt.ylabel('cumulative cases')
 plt.title('Italy Cumulative Cases')
 plt.tight_layout()
 ```
-![Italy Plot](assets/images/italy_example.jpg "Italy")
+![Italy Plot]({{ site.baseurl }}/assets/images/italy_example.jpg "Italy")
