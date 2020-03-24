@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Plotting a COVID19 Dataset in Python"
-author: Jacob
+author: jacob
 categories: [ tutorial ]
 image: assets/images/17.jpg
 tags: [featured]
