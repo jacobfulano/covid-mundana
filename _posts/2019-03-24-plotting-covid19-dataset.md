@@ -3,7 +3,7 @@ layout: post
 title:  "Plotting a COVID19 Dataset in Python"
 author: jacob
 categories: [ tutorial ]
-image: assets/images/python.jpg
+image: assets/images/python2.jpg
 tags: [featured]
 ---
 There are many open-source datasets for covid-19 data; some are more curated than others.
