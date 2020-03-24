@@ -22,7 +22,7 @@ authors:
     sal:
       name:           Jacob
       site:           https://www.github.io/jacobfulano
-      avatar:         /assets/images/profile.jpg
+      avatar:         /assets/images/profile2.jpg
       bio:            "PhD student in computational neuroscience. Concerned data scientist"
       email:          jacobfulano@gmail.com
       twitter:        https://twitter.com/jacobfulano
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: jacob
-      avatar: /assets/images/profile.jpg
+      avatar: /assets/images/profile2.jpg
 
   # all pages
   - scope:
