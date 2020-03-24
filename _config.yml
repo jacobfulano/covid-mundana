@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    sal:
+    jacob:
       name:           Jacob
       site:           https://www.github.io/jacobfulano
       avatar:         /assets/images/profile2.jpg
