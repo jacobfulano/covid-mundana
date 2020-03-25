@@ -18,7 +18,7 @@ The data has been collected since January 22, 2020, and is organized into two `c
 
 We will be using the first file to look at cumulative cases, which can be downloaded [here](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases).
 
-## How to plot the data using python
+## How to plot the data
 
 We will use the `numpy`, `pandas` and `matplotlib` libraries in python.
 
