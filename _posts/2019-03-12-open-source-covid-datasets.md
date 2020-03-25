@@ -36,6 +36,11 @@ The [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org
 
 This dataset is also part of a [Kaggle competition](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) hosted by the [Allen Institute for AI (AI2)](https://duckduckgo.com/?q=Allen+Institute+For+AI&t=osx)
 
+Some of the questions that might be addressed by these AI approaches are:
+* _What is known about transmission, incubation, and environmental stability?_
+* _What do we know about virus genetics, origin, and evolution?_
+
+
 ### Government Websites
 
 ![cdc]({{ site.baseurl }}/assets/images/cdc.png "cdc")
