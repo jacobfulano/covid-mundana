@@ -5,7 +5,7 @@ author: jacob
 categories: [ Reflections ]
 image: assets/images/cappuccino.jpg
 ---
- Yesterday I had my last coffeeshop cup o' joe.
+ Yesterday I had my last coffeeshop cappuccino.
 
  I was craving some sense of normalcy and walked a few blocks over to Joe's coffee on 120th and Broadway. My sense of guilt slowly grew with each step. Social distancing is being taken very seriously, and politicians on twitter as well as colleagues on Slack have been beseeching young people avoid public spaces. A friend whatsapped me a humorous not-so-humorous link: [staythefuckhome.com](https://www.staythefuckhome.com). The message was clear! And yet.
 
