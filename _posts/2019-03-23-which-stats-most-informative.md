@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Which Covid19 Stats are Informative?"
-author: jacob
+title:  "Which COVID-19 Stats are Informative?"
+author: jacobs
 categories: [ Analysis ]
 image: assets/images/data.jpg
 tags: [featured]

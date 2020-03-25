@@ -13,7 +13,10 @@ This project is led by Professor Lauren Gardner in collaboration with Aleksa Zlo
 
   * The New York Times uses this data for its [Daily Tracker](https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html?action=click&module=Top%20Stories&pgtype=Homepage) of Coronavirus Deaths by U.S. State and Country:
 
-* [The Covid Tracking Project](https://covidtracking.com/). This was co-founded in part by _The Atlantic_.
+### The COVID Tracking Project
+
+* [The Covid Tracking Project](https://covidtracking.com/). This was created in part by reporters at _The Atlantic_ Robinson Meyer and Alexis Madrigal, and is currently maintained by a group of reporters and data scientists. The data is curated by hand and double checked manually. As they state on their website:
+> All our information comes from state/district/territory public health authorities—or, occasionally, from trusted news reporting, official press conferences, or (very occasionally) tweets or Facebook updates from state public health authorities or governors.
 
   * This data can be explored easily on [_The Atlantic_ tracker](https://www.theatlantic.com/health/archive/2020/03/how-many-people-tested-sick-coronavirus-covid-each-state-america/608413/)
 
