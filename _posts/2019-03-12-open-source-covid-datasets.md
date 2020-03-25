@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Open Source Covid-19 Datasets"
+title:  "Open Source COVID19 Datasets"
 author: jacob
 categories: [ tutorial ]
 image: assets/images/covid_rect.jpg
 tags: [sticky]
 ---
-Here is a list of open source covid-19 datasets:
+There are many open-source datasets for COVID19 data; some are more curated than others. Here is a list of open source COVID19 datasets:
+
+* The [Center for Systems Science and Engineering (CCSE)](https://systems.jhu.edu) at Johns Hopkins University (JHU) hosts multiple `csv` files of **cumulative confirmed cases** and **confirmed deaths**.
+This project is led by Professor Lauren Gardner in collaboration with Aleksa Zlojutro and David Rey at rCITI at UNSW Sydney, and Ensheng Dong at JHU CSSE.
 
 
 * COVID-19 Open Research Dataset (CORD-19) is a free resource of 44,000+ research articles about covid-19 and the coronavirus "family" of viruses. It is a dataset curated for data mining and natural language processing (NLP). It is updated weekly.[https://pages.semanticscholar.org/coronavirus-research](https://pages.semanticscholar.org/coronavirus-research)
