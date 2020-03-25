@@ -15,15 +15,20 @@ This project is led by Professor Lauren Gardner in collaboration with Aleksa Zlo
 
 ### The COVID Tracking Project
 
+![The COVID Tracking Project]({{ site.baseurl }}/assets/images/covid-tracking-project.png "The COVID Tracking Project")
+
 * [The Covid Tracking Project](https://covidtracking.com/). This was created in part by reporters at _The Atlantic_ Robinson Meyer and Alexis Madrigal, and is currently maintained by a group of reporters and data scientists. The data is curated by hand and double checked manually. As they state on their website:
 > All our information comes from state/district/territory public health authorities—or, occasionally, from trusted news reporting, official press conferences, or (very occasionally) tweets or Facebook updates from state public health authorities or governors.
 
   * This data can be explored easily on [_The Atlantic_ tracker](https://www.theatlantic.com/health/archive/2020/03/how-many-people-tested-sick-coronavirus-covid-each-state-america/608413/)
 
+### COVID-19 Open Research Dataset (CORD-19)
+
+![kaggle]({{ site.baseurl }}/assets/images/kaggle.png "kaggle")
 
 * [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research) is a free resource of 44,000+ research articles about covid-19 and the coronavirus "family" of viruses. It is a dataset curated for data mining and natural language processing (NLP). It is updated weekly.
 
-![kaggle]({{ site.baseurl }}/assets/images/kaggle.png "kaggle")
+
 
 This dataset is also part of a [Kaggle competition](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) hosted by the [Allen Institute for AI (AI2)](https://duckduckgo.com/?q=Allen+Institute+For+AI&t=osx)
 
