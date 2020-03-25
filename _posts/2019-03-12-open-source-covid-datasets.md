@@ -17,7 +17,8 @@ This project is led by Professor Lauren Gardner in collaboration with Aleksa Zlo
 
 ![The COVID Tracking Project]({{ site.baseurl }}/assets/images/covid-tracking-project.png "The COVID Tracking Project")
 
-* [The Covid Tracking Project](https://covidtracking.com/). This was created in part by reporters at _The Atlantic_ Robinson Meyer and Alexis Madrigal, and is currently maintained by a group of reporters and data scientists. The data is curated by hand and double checked manually. As they state on their website:
+* [The Covid Tracking Project](https://covidtracking.com/). This project focuses on coronavirus *testing data* in the US. This includes positive and negative results, pending tests, and total people tested for each state. This is particularly important, since the CDC is currently not publishing complete testing data.[^fn1]
+This was created in part by reporters at _The Atlantic_ Robinson Meyer and Alexis Madrigal, and is currently maintained by a group of reporters and data scientists. The data is curated by hand and double checked manually. As they state on their website:
 > All our information comes from state/district/territory public health authorities—or, occasionally, from trusted news reporting, official press conferences, or (very occasionally) tweets or Facebook updates from state public health authorities or governors.
 
   * This data can be explored easily on [_The Atlantic_ tracker](https://www.theatlantic.com/health/archive/2020/03/how-many-people-tested-sick-coronavirus-covid-each-state-america/608413/)
@@ -37,3 +38,5 @@ This dataset is also part of a [Kaggle competition](https://www.kaggle.com/allen
 * NY State has a [county by county breakdown of positive cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases), which seems to be updated hourly. However, this data is not in `csv` format
 
 * World Health Organization (WHO)
+
+[^fn1]: https://covidtracking.com
