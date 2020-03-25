@@ -6,7 +6,7 @@ categories: [ tutorial ]
 image: assets/images/python2.jpg
 tags: [featured]
 ---
-This introductory tutorial explains how to extract and plot the COVID-19 confirmed cases data from a curated dataset.
+This introductory tutorial explains how to extract and plot COVID-19 confirmed cases data from a curated dataset.
 
 ## How to access the data
 
@@ -14,11 +14,11 @@ We can download the [Novel Coronavirus (COVID-19) Cases Data](https://data.humda
 * `time_series_covid19_confirmed_global.csv`
 * `time_series_covid19_deaths_global.csv`
 
-We will be using the first file to look at cumulative cases, which can be downloaded [here](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases).
+We will be using the first file to look at cumulative cases, which can be downloaded [here](https://data.humdata.org/hxlproxy/api/data-preview.csv?url=https%3A%2F%2Fraw.githubusercontent.com%2FCSSEGISandData%2FCOVID-19%2Fmaster%2Fcsse_covid_19_data%2Fcsse_covid_19_time_series%2Ftime_series_covid19_confirmed_global.csv&filename=time_series_covid19_confirmed_global.csv).
 
 ## How to plot the data
 
-We will use the `numpy`, `pandas` and `matplotlib` libraries in python (if you haven't used python before, here is an explanation of [how to set up a jupyter notebook](https://realpython.com/jupyter-notebook-introduction/)).
+We will use the `numpy`, `pandas` and `matplotlib` libraries in python (_if you haven't used python before, here is an explanation of [how to set up a jupyter notebook](https://realpython.com/jupyter-notebook-introduction/)_).
 
 ```python
 import numpy as np
