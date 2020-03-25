@@ -37,7 +37,7 @@ We can see what's in the dataframe using `.head()`:
 df_italy.head()
 ```
 
-![table head]({{ site.baseurl }}/assets/plots/head.png "table head")
+![table head]({{ site.baseurl }}/assets/plots/head2.png "table head")
 
 In order to simplify the dataframe, we can set the index to 'Country/Region' and drop the unnecessary columns:
 
