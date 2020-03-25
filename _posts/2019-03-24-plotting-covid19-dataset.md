@@ -55,4 +55,31 @@ plt.ylabel('cumulative cases')
 plt.title('Italy Cumulative Cases')
 plt.tight_layout()
 ```
-![Italy Plot]({{ site.baseurl }}/assets/images/italy_example.jpg "Italy")
+![Italy Plot]({{ site.baseurl }}/assets/plots/italy_example.jpg "Italy")
+
+We can do the same thing for the US:
+
+```python
+df_us = df[df['Country/Region'] == 'US']
+df_us = df_us.set_index('Country/Region', drop = True) # set pandas dataframe index to country
+df_us = df_us.drop(columns=['Lat','Long','Province/State'])
+
+data_us = df_us.loc['US','2/28/20':'3/23/20']
+```
+
+![US Plot]({{ site.baseurl }}/assets/plots/us_example.jpg "US")
+
+Plotting these together is quite alarming:
+
+```python
+plt.plot(data_italy.index,data_italy.values,'.-',label='Italy')
+plt.plot(data_us.index,data_us.values,'.-',label='US')
+plt.xticks(rotation=90) # rotate the xticks
+plt.xlabel('calendar date')
+plt.ylabel('cumulative cases')
+plt.title('Italy and US Cumulative Cases')
+plt.legend()
+plt.tight_layout()
+```
+
+![Italy + US Plot]({{ site.baseurl }}/assets/plots/italy+us_example.jpg "Italy and US")
