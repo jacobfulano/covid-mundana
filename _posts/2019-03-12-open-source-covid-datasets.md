@@ -17,11 +17,11 @@ This data can be explored easily on [_The Atlantic_ tracker](https://www.theatla
 
 * [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research) is a free resource of 44,000+ research articles about covid-19 and the coronavirus "family" of viruses. It is a dataset curated for data mining and natural language processing (NLP). It is updated weekly.
 
-![kaggle]({{ site.baseurl }}/assets/plots/kaggle.png "kaggle")
+![kaggle]({{ site.baseurl }}/assets/images/kaggle.png "kaggle")
 
 This dataset is also part of a [Kaggle competition](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) hosted by the [Allen Institute for AI (AI2)](https://duckduckgo.com/?q=Allen+Institute+For+AI&t=osx)
 
-## Government Websites
+#### Government Websites
 
 * NY State has a [county by county breakdown of positive cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases), which seems to be updated hourly. However, this data is not in `csv` format
 
