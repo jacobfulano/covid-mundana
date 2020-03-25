@@ -10,6 +10,8 @@ There are many open-source datasets for COVID-19 data; some are more curated tha
 
 ### Novel Coronavirus (COVID-19) Cases Data
 
+![JHU CCSE]({{ site.baseurl }}/assets/images/jhu.png "JHU CCSE")
+
 The [Novel Coronavirus (COVID-19) Cases Data](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) is curated by the [Center for Systems Science and Engineering (CCSE)](https://systems.jhu.edu) at Johns Hopkins University (JHU) hosts multiple `csv` files of **cumulative confirmed cases** and **confirmed deaths**. The data is collected from various sources including the World Health Organization (WHO), China CDC (CCDC), and the [United States Center for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html). This project is led by Professor Lauren Gardner in collaboration with others.
 
 * The New York Times uses this data for its [Daily Tracker](https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html?action=click&module=Top%20Stories&pgtype=Homepage) of Coronavirus Deaths by U.S. State and Country:
@@ -44,4 +46,4 @@ This dataset is also part of a [Kaggle competition](https://www.kaggle.com/allen
 
 * World Health Organization (WHO)
 
-[^fn1]: https://covidtracking.com
+[^fn1]: [https://covidtracking.com](https://covidtracking.com)
