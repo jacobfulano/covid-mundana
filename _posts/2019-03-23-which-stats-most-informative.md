@@ -9,10 +9,10 @@ tags: [featured]
 
 In the early and uncertain stages of the COVID-19 pandemic in the United States, it is not clear which statistics are most informative.
 
-While there are many metrics that one can follow, cumulative cases is particularly informative:
+While there are many metrics that one can follow, "cumulative cases" is particularly helpful:
 
-* It is a strong indicator of the speed of virus transmission
-* We can compare these metrics across countries
+* It is a strong indicator of the _speed_ of virus transmission
+* We can compare this metric across countries as a baseline
 * If it becomes less exponential, it means that containment efforts are somewhat helping
 
 TBD

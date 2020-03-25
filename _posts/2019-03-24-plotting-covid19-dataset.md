@@ -90,4 +90,4 @@ It is clear from these plots that both countries have experienced an astronomica
 
 > Officials expect the number of confirmed coronavirus cases to surge in the next few days as labs rush to process a massive backlog of tests that number in the tens of thousands.[^fn1]
 
-[^fn1]: [Confirmed coronavirus cases will jump as testing ramps up](https://www.cbsnews.com/news/coronavirus-confirmed-cases-rise-tests/)
+[^fn1]: [Confirmed coronavirus cases will jump as testing ramps up](https://www.cbsnews.com/news/coronavirus-confirmed-cases-rise-tests/) (CBS March 19, accessed March 24)
