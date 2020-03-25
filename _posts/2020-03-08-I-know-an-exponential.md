@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""I know an Exponential When I See One""
+title:  "I know an Exponential When I See One"
 author: jacob
 categories: [ Analysis ]
 image: assets/images/math.jpg
