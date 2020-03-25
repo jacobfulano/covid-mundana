@@ -12,7 +12,7 @@ This introductory tutorial explains how to look at the COVID19 data yourself.
 
 We can download the csv file of cumulative cases, as curated by the Center for Systems Science and Engineering (CCSE) at Johns Hopkins (JHU): [https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
-The data has been collected since January 22 2020. On their website, they state that the data is curated from various sources including the World Health Organization (WHO), DXY.cn. Pneumonia. 2020, BNO News, National Health Commission of the People’s Republic of China (NHC), China CDC (CCDC), and others.
+The data has been collected since January 22, 2020. On their website, they state that the data is curated from various sources including the World Health Organization (WHO), DXY.cn. Pneumonia. 2020, BNO News, National Health Commission of the People’s Republic of China (NHC), China CDC (CCDC), and others.
 
 Here are two example csv files updated twice daily:
 * `time_series_covid19_confirmed_global.csv`
