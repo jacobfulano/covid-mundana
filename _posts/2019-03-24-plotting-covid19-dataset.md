@@ -10,9 +10,7 @@ This introductory tutorial explains how to extract and plot the COVID-19 confirm
 
 ## How to access the data
 
-We can download a straightforward dataset constructed by the Center for Systems Science and Engineering (CCSE) at Johns Hopkins (JHU): [https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
-
-The data has been collected since January 22, 2020, and is organized into two `csv` files. These files are updated twice daily:
+We can download the [Novel Coronavirus (COVID-19) Cases Data](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) constructed by the [Center for Systems Science and Engineering (CCSE)](https://systems.jhu.edu) at Johns Hopkins University (JHU). The data has been collected since January 22, 2020, and is organized into two `csv` files. These files are updated twice daily:
 * `time_series_covid19_confirmed_global.csv`
 * `time_series_covid19_deaths_global.csv`
 
@@ -20,7 +18,7 @@ We will be using the first file to look at cumulative cases, which can be downlo
 
 ## How to plot the data
 
-We will use the `numpy`, `pandas` and `matplotlib` libraries in python.
+We will use the `numpy`, `pandas` and `matplotlib` libraries in python (if you haven't used python before, here is an explanation of [how to set up a jupyter notebook](https://realpython.com/jupyter-notebook-introduction/)).
 
 ```python
 import numpy as np
