@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Plotting a COVID19 Dataset in Python"
+title:  "Plotting COVID-19 Data in Python"
 author: jacob
 categories: [ tutorial ]
 image: assets/images/python2.jpg
 tags: [featured]
 ---
-This introductory tutorial explains how to look at the COVID19 data yourself.
+This introductory tutorial explains how to look at the COVID-19 data yourself.
 
 ## How to access the datasets
 
-We can download the csv file of cumulative cases, as curated by the Center for Systems Science and Engineering (CCSE) at Johns Hopkins (JHU): [https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
+We can download a straightforward dataset curated by the Center for Systems Science and Engineering (CCSE) at Johns Hopkins (JHU): [https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
-The data has been collected since January 22, 2020. On their website, they state that the data is curated from various sources including the World Health Organization (WHO), DXY.cn. Pneumonia. 2020, BNO News, National Health Commission of the People’s Republic of China (NHC), China CDC (CCDC), and others.
+The data has been collected since January 22, 2020, and is organized in 2 `csv` files. These two files are updated twice daily:
+# `time_series_covid19_confirmed_global.csv`
+# `time_series_covid19_deaths_global.csv`
 
-Here are two example csv files updated twice daily:
-* `time_series_covid19_confirmed_global.csv`
-* `time_series_covid19_deaths_global.csv`
+We will be using the first file to look at cumulative cases.
 
 ## How to plot the data using python
 
@@ -26,13 +26,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
-We can then read the `csv` file into a `pandas` dataframe and sort by country:
+We can then read the `csv` file into a `pandas` dataframe and sort by country (e.g. Italy):
 ```python
 df = pd.read_csv('time_series_covid19_confirmed_global.csv')
 df_italy = df[df['Country/Region'] == 'Italy']
 ```
 
-We can see what's in the dataframe:
+We can see what's in the dataframe using `.head()`:
 ```python
 df_italy.head()
 ```
@@ -67,7 +67,7 @@ df_us = df_us.drop(columns=['Lat','Long','Province/State'])
 data_us = df_us.loc['US','2/28/20':'3/23/20']
 ```
 
-![US Plot]({{ site.baseurl }}/assets/plots/us_example.jpg "US")
+![US Plot]({{ site.baseurl }}/assets/plots/us_example1.jpg "US")
 
 Plotting these together is quite alarming:
 
@@ -83,3 +83,7 @@ plt.tight_layout()
 ```
 
 ![Italy + US Plot]({{ site.baseurl }}/assets/plots/italy+us_example.jpg "Italy and US")
+
+It is clear from these plots that both countries have experienced an astronomical increase in confirmed cases between the end of February and mid-March. Both plots also seem to have "bumps" or "elbows." In the US, this appears after March 18, and is mostly likely due to a sharp increase in testing as reported by CBS on March 19: [Confirmed coronavirus cases will jump as testing ramps up](https://www.cbsnews.com/news/coronavirus-confirmed-cases-rise-tests/)
+
+> Officials expect the number of confirmed coronavirus cases to surge in the next few days as labs rush to process a massive backlog of tests that number in the tens of thousands.
