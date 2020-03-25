@@ -49,6 +49,6 @@ Some of the questions that might be addressed by these AI approaches are:
 
 * NY State has a [county by county breakdown of positive cases](https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases), which seems to be updated hourly. However, this data is not in `csv` format
 
-* World Health Organization (WHO)
+
 
 [^fn1]: [https://covidtracking.com](https://covidtracking.com)
