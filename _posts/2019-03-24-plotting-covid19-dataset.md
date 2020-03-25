@@ -86,6 +86,6 @@ plt.tight_layout()
 
 ![Italy + US Plot]({{ site.baseurl }}/assets/plots/italy+us_example.jpg "Italy and US")
 
-It is clear from these plots that both countries have experienced an astronomical increase in confirmed cases between the end of February and mid-March. Both plots also seem to have "bumps" or "elbows." In the US, this appears after March 18, and is mostly likely due to a sharp increase in testing as reported by CBS on March 19: [Confirmed coronavirus cases will jump as testing ramps up](https://www.cbsnews.com/news/coronavirus-confirmed-cases-rise-tests/)
+It is clear from these plots that both countries have experienced an astronomical increase in confirmed cases between the end of February and mid-March. Both plots also seem to have "bumps" or "elbows." In the US, this appears after March 18, and is mostly likely due to a sharp increase in testing as reported by CBS on March 19:
 
-> Officials expect the number of confirmed coronavirus cases to surge in the next few days as labs rush to process a massive backlog of tests that number in the tens of thousands.
+> Officials expect the number of confirmed coronavirus cases to surge in the next few days as labs rush to process a massive backlog of tests that number in the tens of thousands. ([Confirmed coronavirus cases will jump as testing ramps up](https://www.cbsnews.com/news/coronavirus-confirmed-cases-rise-tests/))
