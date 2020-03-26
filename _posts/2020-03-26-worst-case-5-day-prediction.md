@@ -17,13 +17,13 @@ We can predict the worst case scenario for the rest of the month of March by fit
 
 | Date | Cumulative Cases |
 | -----|------------------|
-| 3-25 | 68764 |
-| 3-26 | 89473 |
-| 3-27 | 116420 |
-| 3-28 | 151482 |
-| 3-29 | 197103 |
-| 3-30 | 256464 |
-| 3-31 | 333703 |
+| 3-25 | 68,764 (data) |
+| 3-26 | 89,473 |
+| 3-27 | 116,420 |
+| 3-28 | 151,482 |
+| 3-29 | 197,103 |
+| 3-30 | 256,464 |
+| 3-31 | 333,703 |
 
 ![US]({{ site.baseurl }}/assets/plots/us-3-26/2020-03-26-1859-5countries.png "US")
 
