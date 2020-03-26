@@ -5,6 +5,7 @@ author: jane
 categories: [ Analysis ]
 image: assets/images/data.jpg
 tags: [featured]
+published: false
 ---
 
 In the early and uncertain stages of the COVID-19 pandemic in the United States, it is not clear which statistics are most informative.
