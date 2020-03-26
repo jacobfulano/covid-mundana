@@ -15,9 +15,9 @@ We can predict the worst case scenario for the rest of the month of March by fit
 
 ![US]({{ site.baseurl }}/assets/plots/us-3-26/2020-03-26-1903-US.png "US")
 
-The numbers do not paint a pretty picture.
+#### The numbers do not paint a pretty picture.
 
-| Date: | Cumulative Cases |
+| Date: | Predicted Total Cases |
 | ---- | ---------------- |
 | 3-25: | 68,764 (data) |
 | 3-26: | 89,473 |
@@ -26,7 +26,7 @@ The numbers do not paint a pretty picture.
 | 3-29: | 197,103 |
 | 3-30: | 256,464 |
 | 3-31: | 333,703 |
-s
+
 Note that the last data point is from yesterday, March 25, with 68,764 cases. It predicts that by the evening of March 26 (today), there will be 89,000+ cases.
 
 Comparing this to Italy, France, Spain, and Germany, we see that the US has a much larger rate of exponential growth, with `b=0.263`
