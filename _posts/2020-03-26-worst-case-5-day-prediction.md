@@ -26,7 +26,7 @@ The numbers do not paint a pretty picture.
 | 3-29: | 197,103 |
 | 3-30: | 256,464 |
 | 3-31: | 333,703 |
-
+s
 Note that the last data point is from yesterday, March 25, with 68,764 cases. It predicts that by the evening of March 26 (today), there will be 89,000+ cases.
 
 Comparing this to Italy, France, Spain, and Germany, we see that the US has a much larger rate of exponential growth, with `b=0.263`
@@ -36,4 +36,4 @@ Comparing this to Italy, France, Spain, and Germany, we see that the US has a mu
 Let's hope that this trend slows down...tomorrow.
 
 
-[^fn1]: [NYT, accessed March 26](https://www.nytimes.com/2020/03/26/world/coronavirus-news.html?)
+[^fn1]: [NYT, accessed 7:15 pm, March 26](https://www.nytimes.com/2020/03/26/world/coronavirus-news.html?)
