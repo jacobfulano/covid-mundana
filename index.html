@@ -8,9 +8,6 @@ description: "Data and Analysis"
 
 
 <div class="container">
-
-{% if page.url == "/" %}
-
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %}
 {% if post.tags contains "sticky" %}
@@ -31,6 +28,10 @@ description: "Data and Analysis"
 </div>
 {% endif %}
 {% endfor %}
+
+{% if page.url == "/" %}
+
+
 
 
 
