@@ -7,9 +7,9 @@ tags: [featured]
 ---
 
 
-As of 6:00 pm, Thursday March 26, the United States has more confirmed coronavirus cases than China.[^fn1]
+As of 6:00 pm, Thursday March 26, the United States has more confirmed coronavirus cases than China.
 
-The US has more than 83,000 confirmed cases - and this is with woefully inadequate testing.
+The US has more than 83,000 confirmed cases[^fn1] - and this is with woefully inadequate testing.
 
 We can predict the worst case scenario for the rest of the month of March by fitting the JHU data with an exponential function. The worst case scenario is shown below:
 
@@ -29,7 +29,7 @@ We can predict the worst case scenario for the rest of the month of March by fit
 
 Note that the last data point is from yesterday, March 25, with 68,764 cases. It predicts that by the evening of March 26 (today), there will be 89,000+ cases.
 
-Comparing this to Italy, France, Spain, and Germany, we see that the US has a much larger rate of exponential growth, with `b=0.263`
+Comparing this to Italy, France, Spain, and Germany, we see that the US has a much larger rate of exponential growth, with `b=0.263`:
 
 ![US]({{ site.baseurl }}/assets/plots/us-3-26/2020-03-26-1859-5countries.png "US")
 
